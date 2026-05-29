@@ -14,7 +14,8 @@
 
 删除空文件夹:清理空目录
 
-———————————————————————————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————————————————
+
 Please remember, this is for educational purposes only and may not be used for commercial purposes or any other profit-making activities. 
 
 Copy the source file to prevent errors. 
