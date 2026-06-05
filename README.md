@@ -1,4 +1,4 @@
-Copy the source file to prevent errors. Get exe————————————————————————→
+Copy the source file to prevent errors. Get exe————————————————————————————————————————→
 
 功能：
 
